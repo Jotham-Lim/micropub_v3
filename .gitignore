@@ -1,0 +1,9 @@
+# Basic ones
+/coverage
+/docs
+/node_modules
+/.env
+/.nyc_output
+
+# When using npm, skip the yarn.lock
+/yarn.lock
